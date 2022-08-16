@@ -64,7 +64,7 @@ import numpy as np, pandas as pd, matplotlib.pyplot as plt, seaborn as sns
 
 # In[35]:
 
-
+# https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 data = pd.read_csv("CC GENERAL.csv")
 
 
